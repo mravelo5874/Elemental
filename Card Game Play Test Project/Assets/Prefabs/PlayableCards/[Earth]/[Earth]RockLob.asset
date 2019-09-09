@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6e522d698eab148bc408aad0bf46cf, type: 3}
+  m_Name: '[Earth]RockLob'
+  m_EditorClassIdentifier: 
+  name: Rock Lob
+  description: Deal 8 damage.
+  artwork: {fileID: 21300016, guid: cee1b2d873649fb409351abfd32e441d, type: 3}
+  cost: 1
+  type: 2
+  isSkill: 0
+  randomTarget: 0
+  allEnemies: 0
+  GainBlock: 0
+  blockAmount: 0
+  blockDependence: 0
+  DrawCards: 0
+  cardAmount: 0
+  drawDependence: 0
+  HurtPlayer: 0
+  hurtPlayerAmount: 0
+  hurtPlayerDependence: 0
+  HealPlayer: 0
+  healPlayerAmount: 0
+  healPlayerToMax: 0
+  healDependence: 0
+  ChangePlayerVigor: 0
+  VigorChange: 0
+  playerVigorDuration: 0
+  vigorDependence: 0
+  ChangePlayerDefence: 0
+  DefenceChange: 0
+  playerDefenceDuration: 0
+  defenceDependence: 0
+  ChangePlayerBramble: 0
+  BrambleChange: 0
+  playerBrambleDuration: 0
+  brambleDependence: 0
+  ChangePlayerParasite: 0
+  ParasiteChange: 0
+  playerParasiteDuration: 0
+  parasiteDependence: 0
+  DealDamageToEnemy: 1
+  damageAmountToEnemy: 8
+  damageDependence: 0
+  ChangeEnemyVigor: 0
+  EnemyVigorChange: 0
+  enemyVigorDuration: 0
+  ChangeEnemyDefence: 0
+  EnemyDefenceChange: 0
+  enemyDefenceDuration: 0
+  ChangeEnemyBramble: 0
+  EnemyBrambleChange: 0
+  enemyBrambleDuration: 0
+  ChangeEnemyParasite: 0
+  EnemyParasiteChange: 0
+  enemyParasiteDuration: 0
+  freezeTarget: 0
+  freezeTurns: 0
